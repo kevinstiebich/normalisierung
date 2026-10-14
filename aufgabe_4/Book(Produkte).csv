@@ -1,0 +1,13 @@
+Produktnummer (PK);Produktbezeichnung;Hersteller (FK);Einzelpreis
+P01;Laptop Pro;TechCorp;1200.00
+P02;Wireless Maus;Logi;25.50
+P03;USB-C Hub;ConnectIt;45.00
+P04;Gaming PC;GamerX;2500.00
+P05;Mechanische Tastatur;GamerX;150.00
+P06;Monitor 27 Zoll;ViewSonic;350.00
+P07;Drucker;HP;180.00
+P08;Druckerpatronen;HP;30.00
+P09;Webcam HD;Logi;60.00
+P10;Externes Mikrofon;AudioPro;95.00
+P11;4K Monitor;Dell;750.00
+P12;Grafikkarte RTX 4070;Nvidia;159.99
